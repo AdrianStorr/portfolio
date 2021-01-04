@@ -4,7 +4,7 @@ Responsive design ensures that web applications render well on a variety of devi
 
 [Click here to Access Portfolio](https://adrianstorr.github.io/portfolio/)
 
-![picture](./assets/images/portfolio1.PNG)
+![picture](./assets/images/portfolio1.png)
 
 ## Directions
 
